@@ -8,14 +8,14 @@ hide_title: true
 # Specialist Guide - SP3
 
 ## Where to find the Soulstone
-Talk with the Sp3 Soulstone on the marked place in Peak of Mt. Krem.
+Talk with the SP3 Soulstone on the marked place in Peak of Mt. Krem.
 
 ![](https://i.imgur.com/Hsw0kh5.png)
 
 ## SP3 - Questline
-Like the Sp1 and Sp2 Questsline, there TimeSpaces are gone but unlinke the other two Sp Questlines are not replaced my killing monsters. So it is just shortened and also some of the needed item amounts were reduced. Another change is, that everything has a 100% droprate.
+Like the SP1 and SP2 Questlines, their TimeSpaces are gone but unlike the other two SP Questlines are not replaced by killing monsters. So it is just shortened and also some of the needed item amounts were reduced. Another change is, that everything has a 100% droprate.
 
-In case of accidently deleting a quest item, you can buy then again from the treasure box next to the Soulstone for 1kk each as seen below:
+In case of accidentally deleting a quest item, you can buy them again from the treasure box next to the Soulstone for 1kk each as seen below:
 
 ![](https://i.imgur.com/axbssTw.png)
 
@@ -84,7 +84,7 @@ In case of accidently deleting a quest item, you can buy then again from the tre
 **Congratulations, you received your 3rd SP**.
 
 #### Afterword
-Eventhough the TimeSpace's were removed and the needed item amounts were reduced this questline will still take you approximately 60 to 90 minutes.
+Even though the TimeSpaces were removed and the needed item amounts were reduced this questline will still take you approximately 60 to 90 minutes.
 
 
 
